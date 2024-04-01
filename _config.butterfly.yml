@@ -44,7 +44,7 @@ favicon: themes\butterfly\source\img\favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: themes\butterfly\source\img\avatar.png
+  img: \img\avatar.png
   effect: false
 
 # Disable all banner image
